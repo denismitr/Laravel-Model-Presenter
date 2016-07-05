@@ -1,0 +1,16 @@
+{
+    "name": "denismitr/model-presenter",
+    "description": "Laravel Model Presenter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mitrofanov",
+            "email": "denis.mitr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload": {
+		"psr-4": {"Denismitr\\Presenter\\": "src/"}
+	}
+}
